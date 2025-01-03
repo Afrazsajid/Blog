@@ -15,7 +15,7 @@ A sleek and interactive blog submission and display application built with **Nex
 - **React Hooks**: For managing state and handling user interactions.
 
 ## Demo Link 🎥
-[**Live Demo**](blog-milestone-3.netlify.app)
+[**Live Demo**]([blog-milestone-3.netlify.app](https://milestone3-vert-eight.vercel.app/))
 
 ## How It Works 🔧
 1. **Submit Blog Post**: Enter blog details including title, subtitle, image, and URL.
